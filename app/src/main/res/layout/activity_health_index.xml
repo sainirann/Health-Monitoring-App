@@ -639,7 +639,7 @@
                 android:textAlignment="center"
                 android:fontFamily="@font/adamina"
                 android:textAppearance="@style/TextAppearance.AppCompat.Body1"
-                android:textColor="#FDF9F9"/>
+                android:textColor="@color/text_color"/>
 
             <TextView
                 android:id="@+id/health_value"
